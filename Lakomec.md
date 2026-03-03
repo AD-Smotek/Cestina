@@ -1,80 +1,66 @@
 # 🎭 Lakomec
 
-## ✍ Autor
+## ✍ Autor a doba
 
-Molière (Jean-Baptiste Poquelin)
+**Molière (Jean-Baptiste Poquelin, 1622–1673)**
 Rok vydání: 1668
 Literární směr: Klasicismus
 Národní literatura: Francouzská
+
+Molière byl nejslavnější autor komedií v dějinách, herec, režisér a dramatik, který vedl vlastní divadelní společnost v Paříži.
+
+**Kritika společnosti:** Ve svých hrách se vysmíval lidským nectnostem – lakomství, náboženskému pokrytectví (Tartuffe) nebo domýšlivosti měšťáků. Chránil ho král Ludvík XIV.
+
+**Smrt na jevišti:** Zkolaboval během představení své hry Zdravý nemocný a krátce poté zemřel.
+
+**Historický kontext:** Francie za vlády Ludvíka XIV. – absolutismus, přísný řád, klasicismus vyžadující logiku, jasnost a dodržování antických vzorů.
 
 ---
 
 ## 📚 Charakteristika díla
 
-* Komedie
-* Drama o 5 dějstvích
-* Psáno prózou
+* Žánr: Komedie charakteru (zaměřuje se na dominantní vlastnost postavy)
+* Forma: Drama o 5 dějstvích
+* Jazyk: Próza, nikoli verše (revoluční pro vysoké drama)
+* Dodržuje pravidlo tří jednot:
 
-Jedná se o klasickou komedii charakteru, kde je hlavní důraz kladen na vlastnost hlavní postavy – lakomství.
+  * Místa: Vše se odehrává v Harpagonově domě
+  * Času: Děj během jednoho dne
+  * Děje: Jedna hlavní zápletka (ztráta peněz a sňatky)
 
 ---
 
 ## 👥 Hlavní postavy
 
-### Harpagon
-
-Bohatý, ale extrémně lakomý muž. Miluje své peníze víc než vlastní děti.
-
-### Kleant
-
-Harpagonův syn. Miluje Marianu.
-
-### Eliška
-
-Harpagonova dcera. Miluje Valéra.
-
-### Valér
-
-Správce Harpagonova domu, ve skutečnosti zamilovaný do Elišky.
-
-### Mariana
-
-Chudá dívka, do které je zamilovaný Kleant – zároveň si ji chce vzít i Harpagon.
+* **Harpagon:** Šedesátiletý vdovec, posedlý penězi, lakomý, ochoten obětovat štěstí svých dětí.
+* **Kleant a Eliška:** Harpagonovy děti, utlačované otcem, tají své lásky.
+* **Mariana a Valér:** Mladý pár; Mariana má být provdána za Harpagona, Valér se dostává do domu jako správce.
+* **Štika (La Flèche):** Kleantův sluha, chytrý, ukradne Harpagonovi truhlu, aby pomohl pánovi.
 
 ---
 
 ## 📝 Stručný děj
 
-Harpagon je extrémně lakomý a posedlý svými penězi. Neustále kontroluje své služebnictvo i vlastní děti, protože se bojí, že ho někdo okrade. Své největší bohatství – truhlu plnou zlata – si dokonce zakopá na zahradě.
+Harpagon má zakopanou truhlu s 10 000 zlatými a neustále se bojí, že ji někdo okrade. Plánuje se oženit s mladou Marianou a dceři Elišce připravuje sňatek se starým Anselmem.
 
-Jeho syn Kleant miluje Marianu, chudou dívku, která žije se svou nemocnou matkou. Harpagon si však usmyslí, že si Marianu vezme sám, protože je chudá a nebude po něm chtít věno. Nezajímá ho láska, ale pouze to, aby ho manželství stálo co nejméně peněz.
-
-Svoji dceru Elišku chce provdat za bohatého staršího muže Anselma, kterého si sama nevybrala. Nezáleží mu na jejích citech – důležité je, aby z toho měl finanční výhodu. Dá se říct, že je ochoten „prodat“ své děti za peníze a výhodné sňatky.
-
-Situace se vyhrotí, když Harpagon zjistí, že jeho zakopaná truhla zmizela. Propadne panice, začne křičet, obviňovat všechny kolem sebe a dokonce chce přivolat policii. Ukáže se, že truhlu ukradl Kleantův sluha Štika, aby pomohl svému pánovi získat peníze a zabránit Harpagonovu sňatku s Marianou.
-
-Nakonec vyjde najevo, že Valér i Mariana jsou ztracené děti bohatého šlechtice Anselma. Ten je ochoten zaplatit všechny svatby. Harpagon souhlasí se sňatky svých dětí pouze pod podmínkou, že dostane zpět svou truhlu s penězi a že ho svatby nebudou nic stát.
-
-Komedie tak končí vítězstvím mladé lásky, ale Harpagon zůstává stejným lakomcem jako na začátku.
-
-## 🎭 Témata a motivy
-
-* Lakomství a posedlost majetkem
-* Kritika společnosti a mezilidských vztahů
-* Konflikt mezi láskou a penězi
-* Generační konflikt
+Kleant miluje Marianu a Štika ukradne truhlu, aby situaci vyřešil. Harpagon je zoufalý, podezírá všechny. Nakonec se ukáže, že Valér a Mariana jsou děti bohatého Anselma. Kleant slíbí vrátit peníze, Harpagon souhlasí, hlavně když dostane zpět truhlu a Anselm zaplatí svatby.
 
 ---
 
-## ✒️ Jazyk a styl
+## ⚖️ Klasicismus vs. Romantismus
 
-* Komické situace
-* Ironie a nadsázka
-* Typizované postavy
-* Satira na lidské slabosti
+Hra ukazuje jasný rozdíl oproti Wertherovi: klasicismus zdůrazňuje logiku, pořádek a spravedlivý konec, romantismus naopak vášeň a tragédii.
 
 ---
 
-## 🏷 Shrnutí
+## 🎭 Témata a hlavní myšlenky
 
-Lakomec je typická klasicistní komedie, která zesměšňuje lidskou chamtivost. Molière zde ukazuje, že přehnaná láska k penězům vede ke ztrátě rodinných vztahů i zdravého rozumu.
+* Kritika lakomství: Peníze ničí charakter a rodinné vztahy
+* Vítězství rozumu a lásky: Dobro a logika vítězí
+* Generační střet: Mladí touží po lásce, staří po moci a majetku
+
+---
+
+## 🏷️ Zajímavost
+
+Molière se inspiroval antickým Plautem (Komedie o hrnci). Postava Harpagona je tak výrazná, že slovo „harpagon“ se stalo synonymem pro extrémního držgrešli v mnoha jazycích.
