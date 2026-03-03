@@ -1,51 +1,63 @@
-🕯️ Utrpení mladého Werthera
-✍️ Autor
-Johann Wolfgang Goethe
+# 🕯️ Utrpení mladého Werthera
+
+## ✍ Autor a doba
+
+**Johann Wolfgang Goethe (1749–1832)**
 Rok vydání: 1774
 Literární směr: Preromantismus (hnutí Sturm und Drang)
 Národní literatura: Německá
 
-📚 Charakteristika díla
-Epistolární román (román v dopisech)
+Goethe byl německý básník, dramatik, politik a vědec. Byl hlavní postavou hnutí **Sturm und Drang** (Bouře a vzdor), které odmítalo strohý rozum osvícenství a oslavovalo cit, vášeň a individualitu.
 
-Subjektivní milostná zpověď
+Goethe se věnoval literatuře, dramatům (např. Faust), studiu barev, minerálů a anatomie. Werthera napsal za pouhé 4 týdny, dílo je částečně autobiografické – inspirovalo ho nešťastné zamilování do Charlotty Buffové.
 
-Psáno prózou
+Historický kontext: Evropa 18. století byla ovládána osvícenstvím a klasicismem. Werther ukázal, že člověk není jen stroj rozumu, ale bytost plná emocí.
 
-Dílo je klíčovým textem evropského sentimentalismu. Je psáno formou dopisů, které hlavní hrdina posílá svému příteli Vilémovi, což umožňuje hluboký ponor do hrdinovy psychiky.
+---
 
-👥 Hlavní postavy
-Werther
-Mladý, vzdělaný a extrémně citlivý umělec. Miluje přírodu, lidovou prostotu a nedokáže žít v hranicích společenských konvencí. Jeho emoce jsou pro něj absolutním zákonem.
+## 📚 Charakteristika díla
 
-Lotta (Šarlota)
-Krásná, dobrosrdečná a pečující žena. I když Werthera hluboce obdivuje a má ho ráda, zůstává věrná svému slibu a provdá se za Alberta. Představuje ideál, který je pro Werthera nedosažitelný.
+* Žánr: Epistolární román (román v dopisech)
+* Forma: Próza
+* Jazyk: Citový, plný zvolání, metafor a nedokončených vět
+  Dílo je subjektivní zpovědí, sledující děj očima Werthera skrze dopisy příteli Vilémovi.
 
-Albert
-Lottin snoubenec a později manžel. Je to Wertherův protiklad – racionální, klidný, spolehlivý a pevně ukotvený v realitě. Ačkoliv je čestný, Werther ho vnímá jako příliš „přízemního“.
+---
 
-📝 Stručný děj
-Mladý Werther odjíždí na venkov, aby se v ústraní věnoval malování a četbě Homéra. Na jednom plese se seznámí s Lottou a okamžitě propadne fatální lásce, přestože ví, že Lotta je zasnoubená s Albertem. Werther tráví v její blízkosti veškerý čas a jeho cit se mění v obsesi.
+## 👥 Hlavní postavy
 
-Když se Albert vrátí z cest, Werther si uvědomuje neudržitelnost situace. Pokusí se o únik – přijme místo u dvora, ale tam narazí na aristokratickou nadutost a nepochopení. Zklamán se vrací zpět k Lottě, která je již vdaná.
+* **Werther** – mladý, citlivý umělec, trpí tzv. světobolem, cítí se odcizený společnosti
+* **Lotta (Šarlota)** – ženský ideál, laskavá, věrná společenským závazkům, Werthera má ráda, ale brání se vášní
+* **Albert** – Lottin manžel, rozumný, stabilní, představuje klid a schopnost zapadnout do společnosti
 
-Jeho vnitřní rozervanost mezi neuhasitelnou vášní a vědomím, že Lotta nikdy nebude jeho, se stává nesnesitelnou. Werther dospěje k názoru, že jeden z trojice (on, Lotta nebo Albert) musí zemřít. Pod záminkou cesty si od Alberta vypůjčí pistole a v noci se zastřelí. Je nalezen v kritickém stavu a umírá v bolestech, přičemž je pohřben bez církevního obřadu, protože sebevražda byla tehdy trestným činem proti Bohu.
+---
 
-🎭 Témata a motivy
-Nenaplněná láska: Cit, který vede až k sebezničení.
+## 📝 Stručný děj
 
-Svoboda jedince: Odpor proti společenským pravidlům a hierarchii.
+**Začátek:** Werther přijíždí na venkov a zamiluje se do Lotty, která je zasnoubená s Albertem.
 
-Kult přírody: Příroda jako zrcadlo lidské duše (v radosti je krásná, v depresi bouřlivá).
+**Střed:** Po svatbě Lotty a Alberta Werther zažívá hluboké utrpení. Pokouší se odejít a pracovat u dvora jako úředník, ale zažívá jen ponížení a frustraci.
 
-Vnitřní rozervanost: Střet srdce (emoce) a rozumu.
+**Konec:** Vrací se k Lottě, vidí, že nikdy nebude jeho. Jedné noci si vypůjčí pistoli od Alberta a spáchá sebevraždu. Umírá v bolestech a je pohřben bez kněze mezi dvěma lípami, které miloval.
 
-✒️ Jazyk a styl
-Citovost: Expresivní výrazy, zvolací věty, nedokončené myšlenky.
+---
 
-Subjektivita: Čtenář vidí svět pouze Wertherovýma očima.
+## ⚖️ Klasicismus vs. Romantismus
 
-Příroda jako symbol: Detailní popisy krajiny, které odrážejí hrdinovo rozpoložení.
+* **Individualita:** Klasicismus = řád, Romantismus = svoboda jednotlivce
+* **Cit:** Klasicismus = rozum a povinnost (Albert), Romantismus = srdce a vášeň (Werther)
+* **Tragično:** Klasicismus = morálka vítězí, Romantismus = hrdina volí smrt před kompromisem citů
 
-🏷 Shrnutí a zajímavost
-Dílo vyvolalo po celé Evropě "Wertherovskou horečku". Mladí lidé se začali oblékat jako hlavní hrdina (modrý frak a žlutá vesta) a bohužel se objevila i vlna napodobování Wertherovy sebevraždy. Goethe tímto románem definoval ideál romantického hrdiny, který raději zemře, než aby slevil ze svých citů.
+---
+
+## 🎭 Témata a hlavní myšlenky
+
+* Nemožnost naplnění ideálů
+* Kritika měšťáctví a společenských konvencí
+* Vztah k přírodě jako útočišti před civilizací
+
+---
+
+## 🏷️ Zajímavost: Wertherův efekt
+
+Po vydání knihy v roce 1774 se v Evropě rozšířil módní styl Werthera (modrý frak, žlutá vesta) a došlo k nárůstu sebevražd mladých lidí, kteří se s příběhem identifikovali. Kniha byla v některých městech (např. Lipsko) dokonce zakázána.
