@@ -1,57 +1,11 @@
-# 📖 Utrpení mladého Werthera
+### **Utrpení mladého Werthera – Johann Wolfgang Goethe**
 
-## ✍ Autor
-
-Johann Wolfgang von Goethe
-Rok vydání: 1774
-Literární směr: Sturm und Drang (preromantismus)
-Žánr: Epistolární román
-
----
-
-## 🏛 Doba a historický kontext
-
-Román vznikl v Německu během hnutí **Sturm und Drang**, které zdůrazňovalo city, individualitu a odpor proti přísným společenským pravidlům osvícenství. Toto období oceňovalo subjektivní prožitky, romantickou přírodu a silné emoce. Werther se stal symbolem mladých lidí, kteří hledali svobodu a autenticitu ve světě společenských omezení.
-
----
-
-## 👤 Autor
-
-Johann Wolfgang von Goethe (1749–1832) byl německý básník, prozaik a dramatik. Studoval práva, ale věnoval se literatuře a přírodním vědám. Díky Wertherovi získal evropskou slávu. Později působil ve Výmaru jako státní úředník a stal se představitelem německého klasicismu.
-
----
-
-## 📝 Podrobný děj
-
-Román je psán **formou dopisů**, které Werther posílá svému příteli Vilémovi. Tato epistolární forma umožňuje čtenáři sledovat děj z jeho subjektivního pohledu – vidíme jeho myšlenky, city i postupný psychický rozklad.
-
-### Začátek
-
-Werther přijíždí na venkov, aby unikl společenským povinnostem. Okouzlí ho příroda a jednoduchý život. Na plese se seznamuje s Lottou, do které se okamžitě zamiluje, i když je zasnoubená s Albertem. Werther rychle navazuje přátelství s vesničany a zapojuje se do života komunity.
-
-### Střed
-
-Werther a Lotta tráví společný čas – čtou, diskutují, chodí na procházky a tančí. Jeho city rostou, ale jsou nenaplněné. Albert se vrací, Werther si uvědomuje nebezpečí své lásky a prožívá silný vnitřní konflikt. Příroda odráží jeho pocity: jaro a léto symbolizují radost, podzim melancholii a úzkost.
-
-Werther se snaží odjet do města, pracovat a zapojit se do společnosti, ale je nepochopen a izolován. Kontrast mezi Wertherem (vášeň, cit) a Albertem (rozum, klid, společenský řád) se prohlubuje.
-
-### Konec
-
-Zima symbolizuje chlad, samotu a beznaděj. Werther se vrací k Lottě a jeho zoufalství vrcholí. Pod vlivem hluboké deprese a neschopnosti změnit situaci si půjčuje pistoli od Alberta a spáchá sebevraždu. Jeho smrt ukazuje tragédii nenaplněné lásky a sílu emocí, které hnutí Sturm und Drang oceňovalo.
-
----
-
-## 🎭 Témata
-
-* Nenaplněná láska
-* Cit vs. rozum
-* Konflikt jedince se společností
-* Sebevražda
-* Příroda jako odraz duševního stavu
-* Individualismus a odpor proti společenským pravidlům
-
----
-
-## 🏷 Shrnutí
-
-Román zachycuje psychologickou hloubku Werthera, tragické důsledky nenaplněné lásky a kontrast mezi vášní a rozumem. Epistolární forma a odraz ročních období umocňují intenzitu emocí a představují typický příklad evropského preromantismu.
+* **Děj:** Román je psán formou dopisů (epistolární román). Mladý, citlivý a nadaný umělec Werther odjíždí na venkov, aby se věnoval malování a četbě. Na plese se seznámí s Lottou, do které se hlouběji zamiluje. Lotta je však zasnoubená s racionálním a čestným Albertem. Werther trpí, protože jeho láska nemůže být naplněna. I když se snaží uniknout a najít smysl v práci u dvora, vrací se zpět k Lottě. Neschopnost vyřešit vnitřní rozpor mezi citem a společenskými konvencemi ho dožene k rozhodnutí vzít si život – vypůjčí si od Alberta pistole a zastřelí se.
+* **O autorovi:** Johann Wolfgang Goethe byl klíčovou postavou německého klasicismu a hnutí Sturm und Drang. Byl to „univerzální génius“ – básník, dramatik, politik i vědec. Toto dílo napsal ve svých 24 letech a vyneslo mu okamžitou celoevropskou slávu.
+* **Postavy:** * **Werther:** Extrémně citlivý, náladový, miluje přírodu a prostý lid. Nedokáže ovládat své emoce.
+    * **Lotta:** Ztělesnění ideálu krásy a dobroty. Je věrná slibu, který dala matce (provdat se za Alberta), i když k Wertherovi cítí hlubokou náklonnost.
+    * **Albert:** Wertherův protiklad – klidný, rozvážný, stabilní, ale pro Werthera příliš „přízemní“.
+* **Zajímavosti:** Po vydání knihy se v Evropě strhla tzv. **„wertherovská horečka“**. Mladí muži se oblékali jako Werther (modrý frak, žlutá vesta) a bohužel došlo i k vlně napodobování Wertherovy sebevraždy, kvůli čemuž byla kniha v některých zemích zakázána.
+* **Doba a kontext:** Kniha vyšla v roce 1774. Evropa se nacházela v období osvícenství, ale mladá generace začala proti přehnanému rozumu rebelovat a vyzdvihovat emoce a individualitu.
+* **Umělecký směr:** **Preromantismus** (v Německu hnutí **Sturm und Drang** – Bouře a vzdor). Projevuje se zde důraz na subjektivní prožitek, nespoutaný cit, kult přírody a tragický konec hrdiny, který se odmítá podřídit řádu světa.
+* **Témata a hlavní myšlenka:** Střet absolutní, neomezené lásky s realitou a společenskými závazky. Hlavním tématem je vnitřní rozervanost jedince, pro kterého je cit důležitější než život sám. Kniha kritizuje měšťanskou upjatost a neschopnost společnosti pochopit hloubku lidské duše.
