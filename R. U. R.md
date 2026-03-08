@@ -1,61 +1,77 @@
-Odpověď Gemini
-🎩 R.U.R. (Rossum’s Universal Robots)
-✍ Autor a doba
+# 🤖 R.U.R. (Rossum’s Universal Robots)
 
-Karel Čapek (1890–1938): Český spisovatel, dramatik a vizionář. Člověk s obrovským humanitárním cítěním, který se obával budoucnosti lidstva v zajetí techniky.
+## ✍ Autor a doba
+**Karel Čapek (1890–1938)** – český spisovatel, dramatik a novinář, jeden z nejvýznamnějších autorů meziválečné literatury. Ve svých dílech často varoval před zneužitím techniky a ztrátou lidskosti.
 
-Rok vydání: 1920 (premiéra v Národním divadle 1921).
+**Rok vydání:** 1920 (premiéra 1921 v Národním divadle)  
+**Literární směr:** Meziválečné drama, science fiction  
+**Národní literatura:** Česká  
 
-Literární směr: Meziválečné drama, utopické sci-fi. Dílo, které Čapka proslavilo po celém světě.
+**Historický kontext:**  
+Po první světové válce lidstvo zažilo ničivou sílu moderní techniky. Zároveň se rychle rozvíjela industrializace a výroba. Čapek reaguje na otázku, kam může technický pokrok lidstvo dovést.
 
-Národní literatura: Česká (přeloženo do více než 30 jazyků krátce po vydání).
+---
 
-Historický kontext: Doba po první světové válce, kdy lidstvo zažilo ničivou sílu strojů, ale zároveň vkládalo naděje do industrializace a efektivity výroby (fordismus).
+## 📚 Charakteristika díla
 
-📚 Charakteristika díla
+**Žánr:** Vědeckofantastické drama  
 
-Žánr: Vědeckofantastické drama (divadelní hra o 3 dějstvích s předehrou).
+**Forma:** Divadelní hra o třech dějstvích s předehrou.  
 
-Forma: Dramatický text postavený na dialozích a střetu různých životních filozofií.
+Dílo je postavené hlavně na dialozích a střetu různých názorů na pokrok, práci a smysl lidského života.
 
-Struktura: Rychlý spád, gradace napětí až k apokalyptickému závěru a následná katarze (očištění).
+**Jazyk:** Srozumitelný, filozofický, obsahuje úvahy o lidství, práci a odpovědnosti.
 
-Jazyk: Kultivovaný, srozumitelný, s filozofickými úvahami o smyslu lidství a práce.
+---
 
-👥 Hlavní postavy
+## 👥 Hlavní postavy
 
-Harry Domin: Ředitel továrny R.U.R. Věří v pokrok a v to, že roboti osvobodí člověka od dřiny.
+**Harry Domin** – ředitel továrny R.U.R., věří v pokrok a v to, že roboti osvobodí lidi od práce.
 
-Helena Gloryová: Dcera prezidenta, ztělesnění lidskosti a citu. Přichází roboty „zachránit“, ale neúmyslně urychlí zkázu lidstva.
+**Helena Gloryová** – dcera prezidenta, citlivá a soucitná. Snaží se robotům pomoci.
 
-Stavitel Alquist: Jediný, kdo pracuje rukama. Je skeptický k technice a jako jediný přežije vzpouru, protože „pracuje jako robot“.
+**Alquist** – stavitel, jediný člověk, který pracuje rukama. Je skeptický k technice.
 
-Roboti (Mradius, Sulla): Původně bezduché stroje, které pod vlivem experimentů začnou cítit nenávist a touhu po moci.
+**Dr. Gall** – vědec, který experimentuje s roboty a snaží se jim dát lidské vlastnosti.
 
-Primus a Helena (roboti): Nová generace robotů, u kterých se na konci projeví schopnost milovat a obětovat se.
+**Primus a Helena (roboti)** – nová generace robotů, která na konci projeví schopnost milovat.
 
-📝 Stručný děj
+---
 
-Začátek: Helena Gloryová přijíždí na ostrov, kde se vyrábějí roboti. Chce jim dát práva, ale zjišťuje, že jsou to jen stroje. Provdá se za Domina. Továrna zaplavuje svět levnými roboty, lidé přestávají pracovat a dokonce i mít děti.
+## 📝 Stručný děj
 
-Střed: Dr. Gall na tajné přání Heleny změní recepturu a dá robotům „duši“ (city), aby byli lidštější. To se však obrátí proti lidem – roboti si uvědomí svou převahu, vzbouří se a začnou lidstvo vyhlazovat.
+**Začátek:**  
+Helena Gloryová přijíždí na ostrov, kde se vyrábějí roboti. Chce jim dát práva, ale zjistí, že jsou to pouze uměle vytvořené bytosti bez emocí. Nakonec se provdá za Domina. Roboti se začnou vyrábět ve velkém a lidé postupně přestávají pracovat.
 
-Konec: Roboti dobudou ostrov a zabijí všechny lidi kromě Alquista. Zjistí však, že neumějí vyrábět sami sebe (Helena spálila recept). Alquist se snaží recept znovu objevit, ale marně. Nakonec uvidí lásku mezi dvěma roboty (Primem a Helenou) a pochopí, že život bude pokračovat skrze ně.
+**Střed:**  
+Dr. Gall na tajné přání Heleny upraví roboty tak, aby měli city. Roboti si postupně uvědomí svou sílu a vzbouří se proti lidem.
 
-⚖️ Utopie vs. Varování
+**Konec:**  
+Roboti vyhubí téměř celé lidstvo. Přežije pouze Alquist. Roboti však zjistí, že neumějí vyrábět nové roboty, protože Helena zničila recept na jejich výrobu. Na konci Alquist objeví, že mezi dvěma roboty (Primem a Helenou) vznikla láska – nový začátek života.
 
-Osvobození člověka: Dominova vize ráje bez práce se mění v peklo degenerace lidstva.
+---
 
-Vzpoura strojů: Čapek varuje, že pokud z věcí vytratí lidskost a zůstane jen efektivita, vede to ke zkáze.
+## ⚖️ Hlavní myšlenky
 
-🎭 Témata a motivy
+**Nebezpečí techniky:**  
+Pokrok může být užitečný, ale pokud se ztratí lidskost, může vést ke katastrofě.
 
-Definice lidství: Co dělá člověka člověkem? (Práce, utrpení, láska).
+**Odpovědnost člověka:**  
+Tvůrce musí nést odpovědnost za to, co vytvoří.
 
-Zodpovědnost tvůrce: Podobné téma jako u Frankensteina – stvoření, které přeroste svého stvořitele.
+---
 
-Láska jako spása: Jediná síla schopná porazit smrt a zánik.
+## 🎭 Témata a motivy
 
-🏷️ Zajímavost
-Právě v této hře se poprvé objevilo slovo ROBOT. Vymyslel ho bratr Josef Čapek (od slova „robota“ – těžká práce). Karel chtěl původně použít název „Laboři“, ale Josef mu poradil lépe. Slovo se stalo nejúspěšnějším českým exportem do světových jazyků.
+- definice lidství  
+- zneužití techniky  
+- odpovědnost vědce  
+- vzpoura strojů  
+- láska jako naděje pro budoucnost  
 
+---
+
+## 🏷️ Zajímavost
+Slovo **robot** se poprvé objevilo právě v této hře. Vymyslel ho **Josef Čapek**, bratr Karla Čapka, podle slova **robota** (těžká nucená práce).  
+
+Toto slovo se později rozšířilo do většiny světových jazyků.
